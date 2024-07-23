@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AaryanGotad
-- 👀 I’m interested in learning everything in Computer Science (I know its a bit unrealistic)
+- 👀 I’m interested in learning anything everything in Computer Science (I know its a bit unrealistic)
 - 🌱 I’m currently learning Harvard's CS50x
 - 📧 My e-mail : aaryangotad@gmail.com
-- I am 15 years old as of August 2022, and will turn 16 on 31st of December (Yes you read it right, my birthday comes on New Year's eve)
-- So, I am a high school student, I am in 11th grade currently
+- I am 17 years old as of August 2022, and will turn 18 on 31st of December (Yes you read that right, my birthday comes on New Year's eve)
+- So, I'm in my first year of college, pursuing BSc. Hs. in data science and artificial inteligience from IIT Guwahati
 - I am from Mumbai, a metropolitan city in the state of Maharashtra in India
 
 <!---
